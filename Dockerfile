@@ -1,5 +1,5 @@
 # pull official base image
-FROM python:3.8-slim-bullseye
+FROM python:3.13.2-slim-bullseye
 
 # set work directory
 WORKDIR /usr/src/app
